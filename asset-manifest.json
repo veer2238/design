@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/design/static/css/main.0f6d0324.css",
+    "main.js": "/design/static/js/main.64f6df7f.js",
+    "static/js/453.5d83c70d.chunk.js": "/design/static/js/453.5d83c70d.chunk.js",
+    "static/media/yaria-creations-high-resolution-logo-transparent (1).png": "/design/static/media/yaria-creations-high-resolution-logo-transparent (1).3d58f336f6a00d84200b.png",
+    "index.html": "/design/index.html",
+    "main.0f6d0324.css.map": "/design/static/css/main.0f6d0324.css.map",
+    "main.64f6df7f.js.map": "/design/static/js/main.64f6df7f.js.map",
+    "453.5d83c70d.chunk.js.map": "/design/static/js/453.5d83c70d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f6d0324.css",
+    "static/js/main.64f6df7f.js"
+  ]
+}
